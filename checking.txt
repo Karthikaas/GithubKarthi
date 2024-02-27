@@ -1,0 +1,2 @@
+checkinf file  is added to the trail in the system 
+let the result in the committted message 
